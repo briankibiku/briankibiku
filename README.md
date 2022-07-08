@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankibiku&show_icons=true&theme=dark)
+
+
 I'm Kibiku, thanks for dropping by to check my GitHub out!
 
 ### My go to's
@@ -15,7 +19,6 @@ Serverside -> NodeJs, Express,
 Design -> Figma, XD
 
 My work experience and educational background have improved my skills in Software Development, Data Analysis, Leadership, and Communication which I still seek to improve with time.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankibiku&show_icons=true)
 
 ![giphy](https://user-images.githubusercontent.com/10972674/177987735-e26fa876-45be-4158-a047-8c3f10cd0323.gif)
 
