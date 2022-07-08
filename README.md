@@ -1,5 +1,3 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/10972674/177987990-22d8e0ea-8b33-4b55-89b6-47b00996d4a6.gif)
-
 ### Hi there welcome to my code pool 👋
 
 
