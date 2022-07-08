@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Kibiku, thanks for dropping by to check my portfolio out!
-
-I am a programmer passionate about building applications that make the world better. In the past 3 years , I have had the opportunity to work in the finance, EduTech and TeleHealth environment building applications that manage medical, financial, and content data. I have also worked in the corporate world building web and mobile applications that have improved processes efficiency, reporting, and maintainability.
+I'm Kibiku, thanks for dropping by to check my GitHub out!
 
 ### My go to's
 
@@ -13,6 +11,8 @@ Mobile Development -> Flutter, React Native,
 Databases -> MYSQL, MongoDB, MariaDB,Firebase,
 
 Serverside -> NodeJs, Express,
+
+Design -> Figma, XD
 
 My work experience and educational background have improved my skills in Software Development, Data Analysis, Leadership, and Communication which I still seek to improve with time.
 
