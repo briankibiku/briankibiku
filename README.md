@@ -10,15 +10,15 @@ Get in touch on kibikukim@gmail.com
 
 ### My go to's
 
-Frontend -> ReactJs, VueJs, Laravel, MongoDB, Express,
+- Frontend -> ReactJs, VueJs, Laravel, MongoDB, Express,
 
-Mobile Development -> Flutter, React Native,
+- Mobile Development -> Flutter, React Native,
 
-Databases -> MYSQL, MongoDB, MariaDB,Firebase,
+- Databases -> MYSQL, MongoDB, MariaDB,Firebase,
 
-Serverside -> NodeJs, Express,
+- Serverside -> NodeJs, Express,
 
-Design -> Figma, XD
+- Design -> Figma, XD
 
 My work experience and educational background have improved my skills in Software Development, Data Analysis, Leadership, and Communication which I still seek to improve with time.
 
