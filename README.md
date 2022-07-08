@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankibiku&show_icons=true&theme=radical) Get in touch on kibikukim@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankibiku&show_icons=true&theme=radical) 
 
+Get in touch on kibikukim@gmail.com
+
+![](https://visitor-badge.glitch.me/badge?page_id=briankibiku.briankibiku)
 
 I'm Kibiku, thanks for dropping by to check my GitHub out!
 
