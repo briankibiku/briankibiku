@@ -15,9 +15,7 @@ Serverside -> NodeJs, Express,
 Design -> Figma, XD
 
 My work experience and educational background have improved my skills in Software Development, Data Analysis, Leadership, and Communication which I still seek to improve with time.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?briankibiku=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankibiku&show_icons=true)
 
 ![giphy](https://user-images.githubusercontent.com/10972674/177987735-e26fa876-45be-4158-a047-8c3f10cd0323.gif)
 
