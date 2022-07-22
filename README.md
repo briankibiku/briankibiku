@@ -12,7 +12,7 @@ Get in touch on kibikukim@gmail.com
 
 - Frontend -> ReactJs, VueJs, Laravel, MongoDB, Express,
 
-- Mobile Development -> Flutter, React Native,
+- Mobile Development -> React Native, Flutter
 
 - Databases -> MYSQL, MongoDB, MariaDB,Firebase,
 
