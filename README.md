@@ -14,11 +14,11 @@ Get in touch on kibikukim@gmail.com
 
 - Mobile Development -> React Native, Flutter
 
-- Databases -> MYSQL, MongoDB, MariaDB,Firebase,
+- Databases -> MYSQL, MongoDB, MariaDB, Firebase,
 
 - Serverside -> NodeJs, Express,
 
-- Design -> Figma, XD
+- Design -> Figma
 
 My work experience and educational background have improved my skills in Software Development, Data Analysis, Leadership, and Communication which I still seek to improve with time.
 
