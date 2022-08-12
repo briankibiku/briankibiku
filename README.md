@@ -16,7 +16,7 @@ Get in touch on kibikukim@gmail.com
 
 - Databases -> MYSQL, MongoDB, MariaDB, Firebase,
 
-- Serverside -> NodeJs, Express,
+- Object Oriented Programming -> Python, Django, Django Rest
 
 - Design -> Figma
 
