@@ -6,7 +6,7 @@ I'm Kibiku, a full-stack software engineer. Thanks for dropping by to check my G
 
 Get in touch on kibikukim@gmail.com
 
-![](https://visitor-badge.glitch.me/badge?page_id=briankibiku.briankibiku)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=briankibiku.briankibiku)
 
 ### My go to's
 
