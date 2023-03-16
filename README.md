@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kibiku, a software dev. Thanks for dropping by to check my GitHub out!
+I'm Kibiku, a full-stack software engineer. Thanks for dropping by to check my GitHub out!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankibiku&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briankibiku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
