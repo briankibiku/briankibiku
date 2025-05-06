@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kibiku, a full-stack software engineer. I love to Python and JavaScript!
+I'm Kibiku, a senior software engineer. I love to AI, dart and JavaScript 🕺!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankibiku&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briankibiku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,15 +9,17 @@ Get in touch on kibikukim@gmail.com
 
 ### My go to's
 
-- Frontend -> ReactJs, VueJs, Laravel, MongoDB, Express,
+- Frontend -> ReactJs, VueJs
 
-- Mobile Development -> React Native, Flutter
+- Mobile Development -> Flutter, React Native
 
 - Databases -> MYSQL, MongoDB, MariaDB, Firebase,
 
-- Object Oriented Programming -> Python, Django, Django Rest
+- Back-end -> Python, Django Rest Framework
 
 - Design -> Figma
+
+- Cloude -> Azure, AWS
 
 My work experience and educational background have improved my skills in Software Development, Data Analysis, Leadership, and Communication which I still seek to improve with time.
 
